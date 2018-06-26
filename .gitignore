@@ -1,0 +1,21 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+bower_components/
+node_modules/
+
+# MAC OS#
+.DS_Store
+
+# IDEA#
+*.iml
+.idea/
+
+# Eclipse#
+.project
+.classpath
+.setting/
